@@ -1,4 +1,4 @@
-About
+## About
 
 This development was designed to be used on a plug-in strategy. Suppliers are able to use the core package to branch the inheritance contained on it and build their own device's "drivers" for our Smart-iX platform.
 
@@ -22,10 +22,7 @@ Quarkus is challenging for first-time users once it revolutionise the way java w
 
 SOLID was using as pattern. And Java was used 12 years ago before this task; Mistakes can be explicitly stated and better approaches can be possible to be achieved.
 
-
-Instructions
-
-## Smart Devices
+## Smart devices
 Implementations of smart models and smart features with stacks java, quarkus, grpc and kubernetes
 
 ### Modules
